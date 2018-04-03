@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whiteboxing-UnityVR", "Whiteboxing-UnityVR.csproj", "{A2B4064D-7A22-EDCE-6727-07793D21787F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whiteboxing-UnityVR.Player", "Whiteboxing-UnityVR.Player.csproj", "{B3C548AD-D3B8-3F62-EE27-D5EF99D8CB89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whiteboxing-UnityVR.Editor", "Whiteboxing-UnityVR.Editor.csproj", "{96D9DB04-16CB-694C-7FB7-A2C7FC40086B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B4064D-7A22-EDCE-6727-07793D21787F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B4064D-7A22-EDCE-6727-07793D21787F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B4064D-7A22-EDCE-6727-07793D21787F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B4064D-7A22-EDCE-6727-07793D21787F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C548AD-D3B8-3F62-EE27-D5EF99D8CB89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C548AD-D3B8-3F62-EE27-D5EF99D8CB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C548AD-D3B8-3F62-EE27-D5EF99D8CB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C548AD-D3B8-3F62-EE27-D5EF99D8CB89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D9DB04-16CB-694C-7FB7-A2C7FC40086B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D9DB04-16CB-694C-7FB7-A2C7FC40086B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D9DB04-16CB-694C-7FB7-A2C7FC40086B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D9DB04-16CB-694C-7FB7-A2C7FC40086B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
