@@ -891,6 +891,7 @@
     <Compile Include="Assets\MixedRealityToolkit-Examples\UX\Scripts\Widgets\ScaleThemeWidget.cs" />
     <Compile Include="Assets\MixedRealityToolkit-Examples\UX\Scripts\Widgets\TextMeshColorThemeWidget.cs" />
     <Compile Include="Assets\MixedRealityToolkit-Examples\UX\Scripts\Widgets\TextureThemeWidget.cs" />
+    <Compile Include="Assets\Scripts\ButtonHandler.cs" />
     <Compile Include="Assets\Scripts\GlobalInputHandler.cs" />
   </ItemGroup>
   <ItemGroup>
